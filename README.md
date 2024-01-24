@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bino86it, beginner coder
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
